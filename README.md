@@ -1,9 +1,3 @@
-<style>
-  table, td {
-    border: none;
-  }
-</style>
-
 ## Hey 👋, I'm Benjamin!  
 
 <a href="https://github.com/BenjahYKP" target="_blank">
@@ -17,7 +11,10 @@
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [ProFind](https://github.com/Roussd/Profind)  
-- 🌱 I’m currently learning Flutter  
+- 🌱 I’m currently learning Flutter
+- 🎓 I’m in my final year of Computer Engineering at Universidad del Bío-Bío.  
+- 🌐 I have a strong interest in web and mobile development.  
+- 🚀 I strive to stay up-to-date with new technologies to keep improving my skills.  
 
 </td><td valign="top" width="50%">
 
