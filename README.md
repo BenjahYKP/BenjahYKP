@@ -10,17 +10,7 @@
   
 
 
-
-### Glad to see you here!  
-I am in my final year of Computer Engineering at Universidad del Bío-Bío, with an interest in web and mobile development. Throughout my studies, I have worked on various projects that have given me experience in both frontend and backend development.
-
-I work on creating functional applications and websites, focusing on making them intuitive and well-structured. I also strive to stay up to date with new technologies to keep learning and improving my skills  
-  
-
-<br/>  
-
-
-## Rapidfire  
+## 💡 About me  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [ProFind](https://github.com/Roussd/Profind)  
@@ -41,7 +31,7 @@ I work on creating functional applications and websites, focusing on making them
 <br/>  
 
 
-## Languages and Tools  
+## ⚙️ Languages and Tools  
 <div align="center">  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
@@ -57,7 +47,7 @@ I work on creating functional applications and websites, focusing on making them
 <br/>  
 
 
-## Github Stats  
+## 📊 Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=BenjahYKP&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
