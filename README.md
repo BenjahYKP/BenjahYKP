@@ -8,7 +8,7 @@
 </a>  
 
 ## 💡 About me  
-<table border="0" cellspacing="0" cellpadding="0" style="border: none;"><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [ProFind](https://github.com/Roussd/Profind)  
 - 🌱 I’m currently learning Flutter
@@ -42,7 +42,7 @@
 <br/>  
 
 ## 📊 Github Stats  
-<table border="0" cellspacing="0" cellpadding="0" style="border: none;"><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
   <img src="https://github-readme-stats.vercel.app/api?username=BenjahYKP&show_icons=true&theme=radical&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
