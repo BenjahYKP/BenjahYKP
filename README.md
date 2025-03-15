@@ -22,7 +22,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/e5/32/e0/e532e09a5fb3e5a38fffdcc33f16feeb.gif" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/e5/32/e0/e532e09a5fb3e5a38fffdcc33f16feeb.gif" align="right" style="width: 100%" />
 </div>  
 
 
@@ -60,7 +60,7 @@
 
 <br/>  
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" align="left" height="" width="780" />  
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" align="left" height="" width="800" />  
   
 
 <br/>  
