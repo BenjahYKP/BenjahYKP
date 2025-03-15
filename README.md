@@ -8,21 +8,20 @@
 </a>  
 
 ## 💡 About me  
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
-
-    - 🔭 I’m currently working on [ProFind](https://github.com/Roussd/Profind)  
-    - 🌱 I’m currently learning Flutter
-    - 🎓 I’m in my final year of Computer Engineering at Universidad del Bío-Bío.  
-    - 🌐 I have a strong interest in web and mobile development.  
-    - 🚀 I strive to stay up-to-date with new technologies to keep improving my skills.  
-
-  </div>
-  <div style="width: 48%; text-align: center;">
-    <img src="https://media.tenor.com/1iAkkekFHDsAAAAM/nosolohit-stan-twitter.gif" align="right" style="width: 800" />
-  </div>
-</div>  
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td valign="top" width="50%" style="border: none;">
+      - 🔭 I’m currently working on [ProFind](https://github.com/Roussd/Profind)  
+      - 🌱 I’m currently learning Flutter
+      - 🎓 I’m in my final year of Computer Engineering at Universidad del Bío-Bío.  
+      - 🌐 I have a strong interest in web and mobile development.  
+      - 🚀 I strive to stay up-to-date with new technologies to keep improving my skills.  
+    </td>
+    <td valign="top" width="50%" style="border: none; text-align: center;">
+      <img src="https://media.tenor.com/1iAkkekFHDsAAAAM/nosolohit-stan-twitter.gif" align="right" style="width: 800" />
+    </td>
+  </tr>
+</table>
 
 <br/>  
 
@@ -42,15 +41,16 @@
 <br/>  
 
 ## 📊 Github Stats  
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=BenjahYKP&show_icons=true&theme=radical&count_private=true&hide_border=true" style="width: 100%" />
-  </div>
-  <div style="width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjahYKP&hide_border=true&theme=radical&layout=compact" style="width: 100%" />
-  </div>
-</div>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td valign="top" width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=BenjahYKP&show_icons=true&theme=radical&count_private=true&hide_border=true" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjahYKP&hide_border=true&theme=radical&layout=compact" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>  
 
